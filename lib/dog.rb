@@ -3,7 +3,7 @@
 3.	    @name, @breed = name, breed
 4.	  end
 5.	 
-6.	  def name=(name,breed)
+6.	  def name=(name,breed,"Mutt")
 7.	    @name = name
         @breed = breed
 8.	  end
